@@ -1,2 +1,0 @@
-@echo off
-java -Djava.library.path="." -Djava.io.tmpdir="." -jar $DIR/EchoSimulation-1.0-SNAPSHOT-jar-with-dependencies.jar 
